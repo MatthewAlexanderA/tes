@@ -3,3 +3,5 @@ Cuma ngetes
 - B
 - C
 - D
+- E
+- F

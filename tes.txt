@@ -4,4 +4,4 @@ Cuma ngetes
 - C
 - D
 - E
-- F
+- G
